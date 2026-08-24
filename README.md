@@ -105,7 +105,7 @@ The MARVIN prototype integrates the following hardware components:
 
 All the hardware components were integrated into a compact desk-buddy prototype designed for voice-based interaction and everyday assistance.
 
-![MARVIN Final Model](marvin_final.jpg)
+![MARVIN Final Model](marvin_final.png)
 
 ---
 
